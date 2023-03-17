@@ -1,4 +1,4 @@
-# Application-Mobile-Android-Projet-A
+# Cookie clicker Croissant
 
 # 1 Instructions générales
 Créez un nouveau projet en langage Java, nommé selon le schéma “TP5a_numéro”, où “numéro”
